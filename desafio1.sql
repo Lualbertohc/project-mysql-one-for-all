@@ -106,16 +106,16 @@ INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_re
 INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (2, 10, "2022-08-05 08:05:17");
 INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (2, 7, "2020-01-02 07:40:33");
 INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (3, 10, "2020-11-13 16:55:13");
-INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (3, 8, "2020-12-05 18:38:30");
-INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (4, 6, "2021-08-15 17:10:10");
-INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (5, 6, "2022-01-09 01:44:33");
+INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (3, 2, "2020-12-05 18:38:30");
+INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (4, 8, "2021-08-15 17:10:10");
+INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (5, 8, "2022-01-09 01:44:33");
 INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (5, 5, "2020-08-06 15:23:43");
 INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (6, 7, "2017-01-24 00:31:17");
 INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (6, 1, "2017-10-12 12:35:20");
 INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (7, 4, "2011-12-15 22:30:49");
 INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (8, 4, "2012-03-17 14:56:41");
 INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (9, 9, "2022-02-24 21:14:22");
-INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (9, 3, "2015-12-13 08:30:22");
+INSERT INTO SpotifyClone.historico_de_reproducoes(usuario_id, musica_id, data_reproducao) VALUES (10, 3, "2015-12-13 08:30:22");
 
 INSERT INTO SpotifyClone.lista_de_seguidores(usuario_id, artista_id) VALUES (1, 1);
 INSERT INTO SpotifyClone.lista_de_seguidores(usuario_id, artista_id) VALUES (1, 2);
