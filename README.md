@@ -1,13 +1,29 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<div>
+<img align="center" alt="Header" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/>
+</div>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<div align="center">
+<h1> Projeto MySQL One For All </h1>
+</div>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+<div align="center">
+<h3> Técnologias usadas </h3>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height=40/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height=40/>
+</div>
+
+## Descrição
+
+<p>
+O presente projeto, desenvolvido durante meus estudos na Trybe, tem por objetivo aprimorar e consolidar conceitos de Docker, MySQL e normalização de tabelas.
+
+A tabela abaixo foi normalizada para a "3° Forma Normal", e, através do MySQL Workbench foram montandas planilhas e tabelas para a realização das queries. 
+</p>
+
+<div>
+<img align="center" src="https://github.com/tryber/sd-024-b-mysql-one-for-all/raw/master/images/non-normalized-tables.png"/>
+</div>
