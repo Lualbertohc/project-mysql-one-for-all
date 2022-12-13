@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<h3> Técnologias e ferramentas usadas </h3>
+<h2> Técnologias e ferramentas usadas </h2>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 </div>
 
-## Breve descrição do proveto
+<h2>Breve descrição do proveto</h2>
 
 <p>
 O presente projeto, desenvolvido durante meus estudos na Trybe, tem por objetivo aprimorar e consolidar conceitos de Docker, MySQL e normalização de tabelas.
@@ -31,7 +31,7 @@ A tabela abaixo foi normalizada para a "3° Forma Normal", e, através do MySQL 
 <img align="center" src="https://github.com/tryber/sd-024-b-mysql-one-for-all/raw/master/images/non-normalized-tables.png"/>
 </div>
 
-## Como visualizar a tabela normalizada e as queries?
+<h2>Como visualizar a tabela normalizada e as queries?</h2>
 
 <p>
 Para visualizar a tabela normalizada basta consultar o arquivo "desafio1.sql" na raiz do projeto. Os demais arquivos "desafio" são as queries solicitadas para cumprir um determinado requisito.
