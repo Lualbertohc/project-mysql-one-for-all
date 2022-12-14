@@ -19,7 +19,7 @@
 
 </div>
 
-<h2>Breve descrição do projeto</h2>
+<h2> :dolphin: Breve descrição do projeto</h2>
 
 <p>
 O presente projeto, desenvolvido durante meus estudos na Trybe, tem por objetivo aprimorar e consolidar conceitos de Docker, MySQL e normalização de tabelas.
@@ -31,7 +31,7 @@ A tabela abaixo foi normalizada por mim para a "3° Forma Normal", e, através d
 <img align="center" src="https://github.com/tryber/sd-024-b-mysql-one-for-all/raw/master/images/non-normalized-tables.png"/>
 </div>
 
-<h2>Como visualizar a tabela normalizada e as queries?</h2>
+<h2> :open_file_folder: Como visualizar a tabela normalizada e as queries?</h2>
 
 <p>
 Para visualizar a tabela normalizada basta consultar o arquivo "desafio1.sql" na raiz do projeto. Os demais arquivos "desafio" são as queries.
