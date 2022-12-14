@@ -19,12 +19,12 @@
 
 </div>
 
-<h2>Breve descrição do proveto</h2>
+<h2>Breve descrição do projeto</h2>
 
 <p>
 O presente projeto, desenvolvido durante meus estudos na Trybe, tem por objetivo aprimorar e consolidar conceitos de Docker, MySQL e normalização de tabelas.
 
-A tabela abaixo foi normalizada para a "3° Forma Normal", e, através do MySQL Workbench foram montandas planilhas e tabelas para a realização das queries. 
+A tabela abaixo foi normalizada por mim para a "3° Forma Normal", e, através do MySQL Workbench montei planilhas e tabelas para a realização das queries solicitadas nos requisitos. 
 </p>
 
 <div>
@@ -34,6 +34,6 @@ A tabela abaixo foi normalizada para a "3° Forma Normal", e, através do MySQL 
 <h2>Como visualizar a tabela normalizada e as queries?</h2>
 
 <p>
-Para visualizar a tabela normalizada basta consultar o arquivo "desafio1.sql" na raiz do projeto. Os demais arquivos "desafio" são as queries solicitadas para cumprir um determinado requisito.
+Para visualizar a tabela normalizada basta consultar o arquivo "desafio1.sql" na raiz do projeto. Os demais arquivos "desafio" são as queries.
 </p>
 
