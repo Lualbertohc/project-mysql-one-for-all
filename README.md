@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<h2> Técnologias e ferramentas usadas </h2>
+<h2> :triangular_ruler: Técnologias e ferramentas usadas :scissors: </h2>
 </div>
 
 <div align="center">
